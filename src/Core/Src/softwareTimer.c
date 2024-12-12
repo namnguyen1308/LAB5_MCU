@@ -1,7 +1,7 @@
 /*
  * softwareTimer.c
  *
- *  Created on: DEC 13, 2024
+ *  Created on: Dec 13, 2024
  *      Author: NAM NGUYEN
  */
 
