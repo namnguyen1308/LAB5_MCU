@@ -1,8 +1,8 @@
 /*
  * softwareTimer.c
  *
- *  Created on: Nov 28, 2024
- *      Author: truon
+ *  Created on: DEC 13, 2024
+ *      Author: NAM NGUYEN
  */
 
 
