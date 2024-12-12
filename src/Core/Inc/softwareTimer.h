@@ -1,8 +1,8 @@
 /*
  * softwareTimer.h
  *
- *  Created on: Nov 28, 2024
- *      Author: truon
+ *  Created on: Dec 13, 2024
+ *      Author: NAM NGUYEN
  */
 
 #ifndef INC_SOFTWARETIMER_H_
